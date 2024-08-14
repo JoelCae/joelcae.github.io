@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Joel Castillo"
     weight: 1
   es:
     languageCode: es
     languageName: Español
-    title: Español
+    title: "Joel Castillo"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
