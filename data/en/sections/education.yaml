@@ -11,6 +11,7 @@ section:
 
 degrees:
 - name: Master in Economics
+  url: "https://cee.colmex.mx/maestria/economia/introduccion"
   icon: fa-microscope
   timeframe: 2019-2021
   institution:
