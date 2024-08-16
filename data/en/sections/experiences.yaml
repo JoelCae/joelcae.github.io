@@ -36,7 +36,7 @@ experiences:
     logo: /images/sections/experiences/company2.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: SAT is the federal oragnizations that is the resposible to apply the fiscal regulation. 
+    overview: SAT is the federal organization that is the resposible to apply the fiscal regulation in Mexico. 
   positions:
   - designation: Software Engineer
     start: March 2016
