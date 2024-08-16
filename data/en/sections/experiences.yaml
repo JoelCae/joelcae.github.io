@@ -27,16 +27,16 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Team member in the Banxico's Survey of Expectations of Private Sector Economic Specialists.
-    - Research and assitance for working papers in different economic topics like inflation, expecatations, and climate change.
+    - "Research and assitance for working papers in different economic topics: inflation, expecatations, and climate change"
     
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
+    name: Servicio de Administracion Tribuataria (SAT).
+    url: "https://www.sat.gob.mx/home"
+    location: Mexico City
     logo: /images/sections/experiences/company2.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company2.jpg
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    overview: SAT is the federal oragnizations that is the resposible to apply the fiscal regulation. 
   positions:
   - designation: Software Engineer
     start: March 2016
