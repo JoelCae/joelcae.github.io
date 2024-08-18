@@ -1,7 +1,14 @@
 ---
-title: "ejemplo"
-output: html_document
-date: "2024-08-17"
+title: "Ejemplo"
+date: 2020-06-08T08:06:25+06:00
+description: Introduction to Sample Post
+menu:
+  sidebar:
+    name: Ejemplo
+    identifier: ejemplo
+    weight: 10
+tags: ["Basic", "Multi-lingual"]
+categories: ["Basic"]
 ---
 
 ```{r setup, include=FALSE}
