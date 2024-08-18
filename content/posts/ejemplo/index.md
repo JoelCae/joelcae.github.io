@@ -1,3 +1,16 @@
+---
+title: "Ejemplo"
+date: 2020-06-08T08:06:25+06:00
+description: Introduction to Sample Post
+menu:
+  sidebar:
+    name: Ejemplo
+    identifier: ejemplo
+    weight: 50
+tags: ["Basic", "Multi-lingual"]
+categories: ["Basic"]
+---
+
 ## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
