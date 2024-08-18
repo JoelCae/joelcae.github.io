@@ -37,7 +37,12 @@ summary(cars)
 
 You can also embed plots, for example:
 
-![](ejmplo_rmd_files/figure-markdown_github/pressure-1.png)
+We know $se=\frac{\sigma}{\sqrt{n}}$. Solving
+$4\frac{\sigma}{\sqrt{n}}=1 \Rightarrow n=16\sigma^2$ therefore if
+*σ* = 15% yields 16(15<sup>2</sup>) = 3, 600 years.
+
+The Standard Error is
+$SE_i=\sqrt{var(m_i)} = \sqrt{\frac{1}{i-1}\sum\_{j=1}^i(y_j-m_i)^2}$
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
