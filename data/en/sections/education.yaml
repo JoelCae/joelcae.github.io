@@ -16,8 +16,6 @@ degrees:
   institution:
     name: El Colegio de México
     #ejempo de texto
-    item: 
-    - segundo ejemplo
     url: "https://cee.colmex.mx/maestria/economia/introduccion"
     logo: /images/sections/education/colmex_winered.png
     # Can optionally show a different logo for dark theme
@@ -26,13 +24,11 @@ degrees:
    # scale: CGPA
    # achieved: 3.6
     #outOf: 4
-  #publications: #(optional)
-  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-   # url: "#"
-  #- title: Fusce eu augue ut odio porttitor pulvinar.
-   #" url: "#"
-  #- title: Nullam vitae orci tincidunt purus viverra pulvinar.
-   # url: "#"
+  publications: #(optional)
+  - title: "Efectos del TLCAN en el sector agrícola de México.  
+    "Advisor: Ph.D. Laura Juarez"
+    url: "https://repositorio.colmex.mx/concern/theses/2801pj26n?f%5Bcreator_sim%5D%5B%5D=Castillo+Espinosa%2C+Joel&f%5Blanguage_sim%5D%5B%5D=Español&f%5Bsubject_sim%5D%5B%5D=Libre+comercio&f%5Btype_of_illustrations_sim%5D%5B%5D=gráficas&locale=es"
+
     
 - name: Bachelor in International Trade
   icon: fa-graduation-cap
@@ -43,11 +39,11 @@ degrees:
     logo: /images/sections/education/chapingo_blue.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/education/chapingo_white.png
-  custonSections: #(optional)
-    - name: Thesis
-      content: Hola
-    - name: jc
-      content: ejemplo
+  #custonSections: #(optional)
+   # - name: Thesis
+    #  - 
+    #- name: jc
+     # content: ejemplo
   #grade: #(optional)
    # scale: CGPA
     #achieved: 3.5
