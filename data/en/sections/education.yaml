@@ -16,7 +16,7 @@ degrees:
   institution:
     name: El Colegio de México
     ejempo de texto
-    - segundo ejemplo
+    #- segundo ejemplo
     url: "https://cee.colmex.mx/maestria/economia/introduccion"
     logo: /images/sections/education/colmex_winered.png
     # Can optionally show a different logo for dark theme
