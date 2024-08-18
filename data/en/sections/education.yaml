@@ -2,7 +2,7 @@
 section:
   name: Education
   id: education
-  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  template: sections/education-alt.html # Use "sections/education-alt.html for alternate template.
   enable: true
   weight: 3
   showOnNavbar: true
@@ -26,7 +26,6 @@ degrees:
     #outOf: 4
   publications: #(optional)
   - title: "Thesis: Efectos del TLCAN en el sector agrícola de México. Advisor: Ph.D. Laura Juarez."
-  - "HOLA"
   url: "https://repositorio.colmex.mx/concern/theses/2801pj26n?f%5Bcreator_sim%5D%5B%5D=Castillo+Espinosa%2C+Joel&f%5Blanguage_sim%5D%5B%5D=Español&f%5Bsubject_sim%5D%5B%5D=Libre+comercio&f%5Btype_of_illustrations_sim%5D%5B%5D=gráficas&locale=es"
   
     
