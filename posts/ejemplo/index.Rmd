@@ -6,7 +6,7 @@ menu:
   sidebar:
     name: Ejemplo
     identifier: ejemplo
-    weight: 10
+    weight: 50
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
