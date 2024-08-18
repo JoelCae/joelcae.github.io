@@ -1,7 +1,7 @@
 # section information
 section:
   name: Skills
-  id: skills
+  id: projects
   enable: true
   weight: 4
   showOnNavbar: true
