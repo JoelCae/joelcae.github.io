@@ -8,6 +8,19 @@ section:
   # Can optionally hide the title in sections
   # hideTitle: true
 
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+
+
+
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
@@ -15,23 +28,28 @@ skills:
   logo: /images/sections/skills/kubernetes.png
   summary: "Use"
   url: "https://kubernetes.io/"
+  tags: ["professional", "kubernetes", "cloud"]
 
 - name: STATA
   logo: /images/sections/skills/go.png
   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
   url: "https://golang.org/"
+  tags: ["professional", "kubernetes", "cloud"]
 
 - name: Python
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  tags: ["professional", "kubernetes", "cloud"]
 
 - name: EViews
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  tags: ["professional", "kubernetes", "cloud"]
 
 - name: LaTex
   logo: /images/sections/skills/cloud.png
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  tags: ["professional", "kubernetes", "cloud"]
 
 #- name: Docker
  # logo: /images/sections/skills/docker.svg
