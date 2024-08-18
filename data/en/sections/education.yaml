@@ -36,7 +36,7 @@ degrees:
   institution:
     name: Universidad Autónoma Chapingo
     url: "https://dicea.chapingo.mx/oferta-educativa/lci/lci-info-gen/"
-    logo: /images/sections/education/chapingo_blue.png
+    logo: /images/sections/education/chapingo_blue1.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/education/chapingo_white.png
   #grade: #(optional)
