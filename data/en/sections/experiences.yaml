@@ -33,9 +33,9 @@ experiences:
     name: Servicio de Administracion Tribuataria (SAT).
     url: "https://www.sat.gob.mx/home"
     location: Mexico City
-    logo: /images/sections/experiences/company2.jpg
+    logo: /images/sections/experiences/sat_azul.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company2.jpg
+    darkLogo: /images/sections/experiences/sat_blanco.png
     overview: SAT is the federal organization that is the resposible to apply the fiscal regulation in Mexico. 
   positions:
   - designation: Software Engineer
