@@ -46,19 +46,20 @@ experiences:
     - Read lots of examples.
     - See lots of example videos.
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    logo: /images/sections/experiences/company3.jpg
+#- company:
+ #   name: Intern Counting Company (ICC).
+  #  url: "https://www.example.com"
+   # location: Intern Land
+    #logo: /images/sections/experiences/company3.jpg
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    #overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+  #positions:
+  #- designation: Intern
+   # start: Jun 2015
+   
+    #end: Jan 2016
+   # responsibilities:
+    #- Count lost of interns.
+    #- Count more interns.
+    #- Count me as an intern.
