@@ -14,7 +14,7 @@ experiences:
     name: Banco de México (BANXICO).
     url: "https://www.banxico.org.mx"
     location: Mexico City
-    logo: /images/sections/experiences/banxico.png
+    logo: /images/sections/experiences/banxico_blue.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/experiences/banxico.png
     # company overview
