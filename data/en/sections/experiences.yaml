@@ -16,7 +16,7 @@ experiences:
     location: Mexico City
     logo: /images/sections/experiences/banxico_blue.png
     # Can optionally show a different logo for dark theme
-    darkLogo: /images/sections/experiences/banxico.png
+    darkLogo: /images/sections/experiences/banxico_white.png
     # company overview
     overview: Banxico is the Central Bank of Mexico. The main objective of Banxico is to maintain a low and stable inflation.
   positions:
@@ -33,9 +33,9 @@ experiences:
     name: Servicio de Administracion Tribuataria (SAT).
     url: "https://www.sat.gob.mx/home"
     location: Mexico City
-    logo: /images/sections/experiences/sat_azul.png
+    logo: /images/sections/experiences/sat_blue.png
     # Can optionally show a different logo for dark theme
-    darkLogo: /images/sections/experiences/sat_blanco.png
+    darkLogo: /images/sections/experiences/sat_white.png
     overview: SAT is the federal organization that is the resposible to apply the fiscal regulation in Mexico. 
   positions:
   - designation: Software Engineer
