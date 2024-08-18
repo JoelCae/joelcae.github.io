@@ -16,7 +16,7 @@ experiences:
     location: Mexico City
     logo: /images/sections/experiences/banxico.png
     # Can optionally show a different logo for dark theme
-    # darkLogo: /images/sections/experiences/company1.jpg
+    darkLogo: /images/sections/experiences/banxico.png
     # company overview
     overview: Banxico is the Central Bank of Mexico. The main objective of Banxico is to maintain a low and stable inflation.
   positions:
