@@ -25,9 +25,9 @@ degrees:
    # achieved: 3.6
     #outOf: 4
   publications: #(optional)
-  - title: "Thesis: Efectos del TLCAN en el sector agrícola de México" 
+  - title: "Thesis: Efectos del TLCAN en el sector agrícola de México." 
     url: "https://repositorio.colmex.mx/concern/theses/2801pj26n?f%5Bcreator_sim%5D%5B%5D=Castillo+Espinosa%2C+Joel&f%5Blanguage_sim%5D%5B%5D=Español&f%5Bsubject_sim%5D%5B%5D=Libre+comercio&f%5Btype_of_illustrations_sim%5D%5B%5D=gráficas&locale=es"
-  - subtitle: "Advisor: Ph.D. Laura Juarez" 
+  - title: "Advisor: Ph.D. Laura Juarez" 
     
     
     
@@ -40,11 +40,11 @@ degrees:
     logo: /images/sections/education/chapingo_blue.png
     # Can optionally show a different logo for dark theme
     darkLogo: /images/sections/education/chapingo_white.png
-  custonSections: #(optional)
-    - name: Thesis
-      content: ejemplo
-    - name: jc
-      content: ejemplo
+  #custonSections: #(optional)
+   # - name: Thesis
+    #  content: ejemplo
+    #- name: jc
+     # content: ejemplo
   #grade: #(optional)
    # scale: CGPA
     #achieved: 3.5
@@ -66,9 +66,10 @@ degrees:
     #- name: Artificial Intelligent
       #achieved: 3.75
       #outOf: 4
-  #publications: #(optional)
-  #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  #  url: "#"
+  publications: #(optional)
+  - title: Análisis del mercado interno y Comercio Exterior de la carne porcina en México.
+    url: "http://biblioteca.dicea.chapingo.mx/cgi-bin/koha/opac-detail.pl?biblionumber=14157"
+  - title: With M.Sc. Karina Dominguez. Advisor: Ph.D. Samuel Banda.
   #- title: Fusce eu augue ut odio porttitor pulvinar.
    # url: "#"
   #extracurricularActivities: #(optional)
