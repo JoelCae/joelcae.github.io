@@ -14,10 +14,8 @@ buttons:
   filter: "all"
 - name: Data
   filter: "data"
-- name: Programing
-  filter: "programing"
-- name: Hobby
-  filter: "hobby"
+- name: Programming
+  filter: "programming"
 
 # your projects
 projects:
