@@ -23,8 +23,7 @@ buttons:
 # your publications
 publications:
 
-- title: An Example Paper on Security
-  url: https://example.com
+- title: [Link to the Survey](https://www.banxico.org.mx/publicaciones-y-prensa/encuestas-sobre-las-expectativas-de-los-especialis/encuestas-expectativas-del-se.html)
   publishedIn:
     name: 2020 IEEE Region Symposium (TENSYMP)
     date: 7 June 2020
