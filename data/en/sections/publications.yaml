@@ -5,6 +5,7 @@ section:
   enable: true
   weight: 5
   showOnNavbar: true
+  collapseAfter: 2
   # Can optionally hide the title in sections
   # hideTitle: true
 
@@ -21,7 +22,6 @@ buttons:
 
 # your publications
 publications:
-  collapseAfter: 2
 - title: An Example Paper on Machine Learning
   publishedIn:
     name: 2020 IEEE Region Symposium (TENSYMP)
