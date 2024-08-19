@@ -24,6 +24,7 @@ buttons:
 publications:
 
 - title: An Example Paper on Security
+  url: https://example.com
   publishedIn:
     name: 2020 IEEE Region Symposium (TENSYMP)
     date: 7 June 2020
