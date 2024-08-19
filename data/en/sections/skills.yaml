@@ -23,29 +23,30 @@ buttons:
 projects:
 - name: R
   logo: /images/sections/skills/kubernetes.png
-  summary: "Use"
-  url: "https://kubernetes.io/"
+  summary: ""
+  url: "https://www.r-project.org"
   tags: ["programming language", "kubernetes", "cloud"]
 
 - name: STATA
   logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  summary: ""
+  url: "https://www.stata.com"
   tags: ["programming language", "kubernetes", "cloud"]
 
 - name: Python
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "https://www.python.org"
   tags: ["programming language", "kubernetes", "cloud"]
 
 - name: EViews
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: ""
+  url: "https://www.eviews.com/home.html"
   tags: ["programming language", "kubernetes", "cloud"]
 
 - name: LaTex
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: ""
   tags: ["programming language", "kubernetes", "cloud"]
 
 #- name: Docker
