@@ -25,9 +25,9 @@ publications:
 
 - title: Population and Economy (Shiny app)
   publishedIn:
-    #name: with Joelm and 
+    name: Link to Shiny app
     date: 2020
-    #url: https://example.com
+    url: "https://diego-lopezt.shinyapps.io/Poblacion_Economia/" 
  # authors:
   #- name: Dr. Madman
    # url: https://example.com
