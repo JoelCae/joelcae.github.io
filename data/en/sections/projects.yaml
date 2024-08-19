@@ -29,7 +29,7 @@ projects:
   url: "https://diego-lopezt.shinyapps.io/Poblacion_Economia/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: This data project presents the relevant information for the principal population variables (fertility and fecundity, mortality and nuptiality) for Mexico and their relationship with the economic cycle. 
           The project is presented as an interactive and friendly visualitation tool. 
-  tags: ["data", "programming", "shiny app", "R"]
+  tags: ["data", "programming", "shiny app", "r"]
 
 #- name: Tensorflow
   #logo: /images/sections/projects/tensorflow.png
