@@ -1,6 +1,6 @@
 # section information
 section:
-  name: "Research and projects"
+  name: Research and projects
   id: publications
   enable: true
   weight: 5
