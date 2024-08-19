@@ -25,9 +25,9 @@ publications:
 
 - title: hola
   publishedIn:
-    name: with Joelm and 
+    #name: with Joelm and 
     date: 2020
-    url: https://example.com
+    #url: https://example.com
  # authors:
   #- name: Dr. Madman
    # url: https://example.com
