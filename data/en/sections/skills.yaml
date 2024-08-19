@@ -35,7 +35,8 @@ projects:
 
 - name: Python
   logo: /images/sections/skills/cloud.png
-  summary: "https://www.python.org"
+  summary: ""
+  url: "https://www.python.org"
   tags: ["programming language", "kubernetes", "cloud"]
 
 - name: EViews
