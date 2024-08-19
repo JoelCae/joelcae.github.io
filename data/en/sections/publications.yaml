@@ -21,7 +21,7 @@ buttons:
 
 # your publications
 publications:
-collapseAfter: 2
+  collapseAfter: 2
 - title: An Example Paper on Machine Learning
   publishedIn:
     name: 2020 IEEE Region Symposium (TENSYMP)
