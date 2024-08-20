@@ -50,6 +50,26 @@ projects:
   summary: ""
   tags: ["programming language", "kubernetes", "cloud"]
 
+- name: MS Office
+  logo: /images/sections/skills/cloud.png
+  summary: ""
+  tags: ["programming language", "kubernetes", "cloud"]
+
+- name: Applied Economics
+  logo: /images/sections/skills/cloud.png
+  summary: ""
+  tags: ["programming language", "kubernetes", "cloud"]
+
+- name: Data Analysis
+  logo: /images/sections/skills/cloud.png
+  summary: ""
+  tags: ["programming language", "kubernetes", "cloud"]
+
+- name: GiHub
+  logo: /images/sections/skills/cloud.png
+  summary: ""
+  tags: ["programming language", "kubernetes", "cloud"]
+
 #- name: Docker
  # logo: /images/sections/skills/docker.svg
   #summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
