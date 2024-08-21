@@ -25,7 +25,7 @@ languages:
     languageName: English
     title: "Joel Castillo"
     weight: 1
-  es:
+  mx:
     languageCode: mx
     languageName: Español
     title: "Joel Castillo"
