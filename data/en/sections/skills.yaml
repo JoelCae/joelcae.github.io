@@ -22,13 +22,13 @@ buttons:
 # Give a summary of you each skill in the summary section.
 projects:
 - name: R
-  logo: /images/sections/skills/kubernetes.png
+  logo: /images/sections/skills/Rlogo.png
   summary: "Experienced in R for statistical analysis, data visualization, and data manipulation. Skilled in using R packages like dplyr, ggplot2, and tidyr for data manipulation and creating graphics."
   url: "https://www.r-project.org"
   tags: ["software", "programming"]
 
 - name: STATA
-  logo: /images/sections/skills/go.png
+  logo: /images/sections/skills/statalogo.svg
   summary: "Proficient in Stata, with experience in managing large datasets, performing statistical analyses (including regression, time-series, and panel data), and creating customized visualizations."
   url: "https://www.stata.com"
   tags: ["software", "programming"]
@@ -46,12 +46,12 @@ projects:
   #tags: ["software", "programming"]
 
 - name: LaTex
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/Latexlogo.png
   summary: "Proficient in LaTeX for creating professionally formatted documents, including academic papers, reports, and presentations. Skilled in using LaTeX for complex mathematical typesetting, bibliography management, and document customization."
   tags: ["software", "programming"]
 
 - name: MS Office
-  logo: /images/sections/skills/cloud.png
+  logo: /images/sections/skills/MSlogo.png
   summary: "Proficient in Microsoft Office, with advanced skills in Excel for data analysis, modeling, and automation using functions. Experienced in creating professional documents in Word. Skilled in designing presentations in PowerPoint."
   tags: ["software"]
 
