@@ -12,10 +12,13 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Programming Language
-  filter: "programming language"
-- name: Academic
-  filter: "academic"
+- name: Software
+  filter: "software"
+  filter: "programming"
+- name: Data
+  filter: "data"
+- name: Economics
+  filter: "economics"
 
 
 # Your Skills.
@@ -25,50 +28,50 @@ projects:
   logo: /images/sections/skills/kubernetes.png
   summary: ""
   url: "https://www.r-project.org"
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["software", "data", "programming"]
 
 - name: STATA
   logo: /images/sections/skills/go.png
   summary: ""
   url: "https://www.stata.com"
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["software", "data", "programming"]
 
 - name: Python
   logo: /images/sections/skills/cloud.png
   summary: ""
   url: "https://www.python.org"
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["software", "data", "programming"]
 
 - name: EViews
   logo: /images/sections/skills/cloud.png
   summary: ""
   url: "https://www.eviews.com/home.html"
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["software", "programming"]
 
 - name: LaTex
   logo: /images/sections/skills/cloud.png
   summary: ""
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["software", "programming"]
 
 - name: MS Office
   logo: /images/sections/skills/cloud.png
   summary: ""
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["software", "data"]
 
 - name: Applied Economics
   logo: /images/sections/skills/cloud.png
   summary: ""
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["ecomomics"]
 
 - name: Data Analysis
   logo: /images/sections/skills/cloud.png
   summary: ""
-  tags: ["programming language", "kubernetes", "cloud"]
+  tags: ["data"]
 
-- name: GiHub
-  logo: /images/sections/skills/cloud.png
-  summary: ""
-  tags: ["programming language", "kubernetes", "cloud"]
+#- name: GiHub
+ # logo: /images/sections/skills/cloud.png
+  #summary: ""
+ #tags: ["programming language", "kubernetes", "cloud"]
 
 #- name: Docker
  # logo: /images/sections/skills/docker.svg
