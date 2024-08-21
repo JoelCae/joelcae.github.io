@@ -23,21 +23,21 @@ buttons:
 projects:
 - name: R
   logo: /images/sections/skills/kubernetes.png
-  summary: "Experienced in R for statistical analysis, data visualization, and data manipulation. "
+  summary: "Experienced in R for statistical analysis, data visualization, and data manipulation. Skilled in using R packages like dplyr, ggplot2, and tidyr for data manipulation and creating graphics."
   url: "https://www.r-project.org"
   tags: ["software", "programming"]
 
 - name: STATA
   logo: /images/sections/skills/go.png
-  summary: "Proficient in Stata, with experience in managing large datasets, performing statistical analyses (including regression, time-series, and panel data), and creating customized visualizations. Skilled in scripting and automating tasks to enhance efficiency and ensure reproducibility in research."
+  summary: "Proficient in Stata, with experience in managing large datasets, performing statistical analyses (including regression, time-series, and panel data), and creating customized visualizations."
   url: "https://www.stata.com"
   tags: ["software", "programming"]
 
-- name: Python
-  logo: /images/sections/skills/cloud.png
-  summary: "Experienced in Python, specializing in data analysis, automation, and machine learning. Proficient in using libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization, as well as Scikit-learn and TensorFlow for developing predictive models. Skilled in writing efficient scripts for automating workflows and ensuring reproducibility in research."
-  url: "https://www.python.org"
-  tags: ["software", "programming"]
+#- name: Python
+ # logo: /images/sections/skills/cloud.png
+ # summary: "Experienced in Python, specializing in data analysis, automation, and machine learning. Proficient in using libraries like Pandas, NumPy, and Matplotlib for data manipulation and visualization, as well as Scikit-learn and TensorFlow for developing predictive models. Skilled in writing efficient scripts for automating workflows and ensuring reproducibility in research."
+  #url: "https://www.python.org"
+  #tags: ["software", "programming"]
 
 #- name: EViews
  # logo: /images/sections/skills/cloud.png
@@ -47,17 +47,17 @@ projects:
 
 - name: LaTex
   logo: /images/sections/skills/cloud.png
-  summary: "Proficient in LaTeX for creating high-quality, professionally formatted documents, including academic papers, reports, and presentations. Skilled in using LaTeX for complex mathematical typesetting, bibliography management, and document customization."
+  summary: "Proficient in LaTeX for creating professionally formatted documents, including academic papers, reports, and presentations. Skilled in using LaTeX for complex mathematical typesetting, bibliography management, and document customization."
   tags: ["software", "programming"]
 
 - name: MS Office
   logo: /images/sections/skills/cloud.png
-  summary: ""
+  summary: "Proficient in Microsoft Office, with advanced skills in Excel for data analysis, modeling, and automation using functions. Experienced in creating professional documents in Word. Skilled in designing presentations in PowerPoint."
   tags: ["software"]
 
 - name: Applied Economics
   logo: /images/sections/skills/cloud.png
-  summary: "Skilled in applied economics, with a strong background in using economic theories and quantitative methods to analyze real-world issues. Proficient in conducting economic modeling, policy analysis, and forecasting to provide actionable insights. Experienced in interpreting economic data and applying econometric techniques to inform decision-making and solve practical economic problems."
+  summary: "Skilled in applied economics, with a strong background in using economic theories and quantitative methods to analyze real-world issues. Experienced in interpreting economic data and applying econometric techniques to inform decision-making and solve practical economic problems."
   tags: ["economics"]
 
 - name: Data Analysis
