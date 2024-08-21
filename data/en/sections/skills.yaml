@@ -14,11 +14,8 @@ buttons:
   filter: "all"
 - name: Software
   filter: "software"
-  filter: "programming"
-- name: Data
-  filter: "data"
-- name: Economics
-  filter: "economics"
+- name: Analysis
+  filter: "data", "software"
 
 
 # Your Skills.
@@ -61,7 +58,7 @@ projects:
 - name: Applied Economics
   logo: /images/sections/skills/cloud.png
   summary: ""
-  tags: ["ecomomics"]
+  tags: [ "economics"]
 
 - name: Data Analysis
   logo: /images/sections/skills/cloud.png
