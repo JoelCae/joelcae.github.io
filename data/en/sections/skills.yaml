@@ -14,8 +14,8 @@ buttons:
   filter: "all"
 - name: Economic analysis
   filter: "economics"
-- name: Programmin
-  filter: "software"
+- name: Programming
+  filter: "programming"
 
 
 # Your Skills.
