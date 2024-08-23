@@ -11,8 +11,8 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Welcome to this blog. Here, I am going to post notes and posts about different topics. 
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+In this first seccion, I present a general outline of the content. If you want read a specific post, you can click on the link or navigate on the navbar in the left. 
+
+Feel free to explore all the content. If you have any question or contribution, I will be greatful to recive your messange (you can see my contact details [here]([https://website-name.com](https://joelcae.github.io/#about) or in the footer of this website). 
