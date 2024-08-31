@@ -1,4 +1,4 @@
-# Copyright Notice
+i# Copyright Notice
 copyright: © 2020 Copyright.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
@@ -22,7 +22,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Joel Castillo
+  title: Joel Castillo Espinosa
   type: website
   description: Portfolio and personal blog of Joel Castillo Espinosa.
   image: images/author/john.png
