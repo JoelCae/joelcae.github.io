@@ -60,6 +60,11 @@ projects:
   summary: "Experienced in data analysis, with strong skills in cleaning, transforming, and interpreting complex datasets. Proficient in using statistical methods and tools to extract relevant information. Capable of visualizing data effectively to communicate findings clearly."
   tags: ["data", "economics"]
 
+- name: Applied Economics
+  logo: /images/sections/skills/cloud.png
+  summary: "Skilled in applied economics, with a strong background in using economic theories and quantitative methods. Experienced in interpreting economic data and applying econometric techniques applied to economic research."
+  tags: ["data", "economics"]
+
 #- name: GiHub
  # logo: /images/sections/skills/cloud.png
   #summary: ""
