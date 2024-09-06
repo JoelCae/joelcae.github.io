@@ -55,6 +55,11 @@ projects:
   summary: "Proficient in Microsoft Office, with advanced skills in Excel for data analysis, modeling, and automation using functions. Experienced in creating professional documents in Word. Skilled in designing presentations in PowerPoint."
   tags: ["software"]
 
+- name: Applied Economics
+  logo: /images/sections/skills/cloud.png
+  summary: "Skilled in applied economics, with a strong background in using economic theories and quantitative methods. Experienced in interpreting economic data and applying econometric techniques applied to economic research."
+
+
 
 #- name: GiHub
  # logo: /images/sections/skills/cloud.png
