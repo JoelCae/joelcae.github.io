@@ -57,12 +57,11 @@ projects:
 
 - name: Applied Economics
   logo: /images/sections/skills/cloud.png
-  summary: "Skilled in applied economics, with a strong background in using economic theories and quantitative methods to analyze real-world issues. Experienced in interpreting economic data and applying econometric techniques to inform decision-making and solve practical economic problems."
-  tags: ["economics"]
+  summary: "Skilled in applied economics, with a strong background in using economic theories and quantitative methods. Experienced in interpreting economic data and applying econometric techniques applied to economic research."
 
 - name: Data Analysis
   logo: /images/sections/skills/cloud.png
-  summary: "Experienced in data analysis, with strong skills in cleaning, transforming, and interpreting complex datasets. Proficient in using statistical methods and tools to extract meaningful insights, identify trends, and support data-driven decision-making. Capable of visualizing data effectively to communicate findings clearly."
+  summary: "Experienced in data analysis, with strong skills in cleaning, transforming, and interpreting complex datasets. Proficient in using statistical methods and tools to extract relevant information. Capable of visualizing data effectively to communicate findings clearly"
   tags: ["data", "economics"]
 
 #- name: GiHub
