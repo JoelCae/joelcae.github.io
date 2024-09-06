@@ -61,7 +61,7 @@ projects:
 
 - name: Data Analysis
   logo: /images/sections/skills/cloud.png
-  summary: "Experienced in data analysis, with strong skills in cleaning, transforming, and interpreting complex datasets. Proficient in using statistical methods and tools to extract relevant information. Capable of visualizing data effectively to communicate findings clearly"
+  summary: "Experienced in data analysis, with strong skills in cleaning, transforming, and interpreting complex datasets. Proficient in using statistical methods and tools to extract relevant information. Capable of visualizing data effectively to communicate findings clearly."
   tags: ["data", "economics"]
 
 #- name: GiHub
