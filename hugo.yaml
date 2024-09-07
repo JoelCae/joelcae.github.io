@@ -65,7 +65,7 @@ params:
   logo:
     main: /images/site/jce_logo1_sf.png
     inverted: /images/site/jce_logo1_sf.png
-    favicon: /images/site/favicon.png
+    favicon: /images/site/jce_logo1_sf.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/joelcae/joelcae.github.io
