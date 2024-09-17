@@ -37,9 +37,9 @@ publications:
           The project is presented as an interactive and friendly visualitation tool. <br /> With Diego Lopez and Williams Gomez.
     url: "https://diego-lopezt.shinyapps.io/Poblacion_Economia/" 
   categories: ["project"]
-  tags: ["R Programming", "Data", "Visualitation","Shiny app"
+  tags: ["R Programming", "Data", "Visualitation","Shiny app"]
 
-- title: Master Thesis
+- title: "Efectos del TLCAN en el sector agrícola de México : Una aplicación del Método de Control Sintético (Master Thesis)"
   publishedIn:
     name: Link to the document
     date: 2021
