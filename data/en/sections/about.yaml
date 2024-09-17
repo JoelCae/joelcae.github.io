@@ -11,7 +11,7 @@ section:
 designation: Economist
 # your company information
 company:
-  name: Central Bank of Mexico (BANXICO)
+  name: Banco de México (BANXICO)
   url: "https://www.banxico.org.mx"
 
 # your resume. this file path should be relative to you "static" directory
